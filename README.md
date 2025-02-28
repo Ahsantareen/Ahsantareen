@@ -30,11 +30,16 @@
 
 <section id="publications">
   <h2>My Publications</h2>
-   <li>Khan, Muhammad Ahsan, et al. "An Incentive-Based Mechanism to Enhance Energy Trading among Microgrids, EVs, and Grid." Energies 16.17 (2023): 6359.https://doi.org/10.3390/en16176359</li>
-   <li>Rehman, T., Khan, M.A., Hussain, A., Kim, H.-M., 2024. Optimal sizing of multi-energy microgrid with electric vehicle integration: Considering carbon emission and resilience load. Energy Reports 11, 4192–4212. https://doi.org/10.1016/j.egyr.2024.04.001</li>
-   <li>Khan, M.A., Rehman, T., Hussain, A., Kim, H.-M., 2024. Day-ahead operation of a multi-energy microgrid community with shared hybrid energy storage and EV integration. Journal of Energy Storage 97, 112855. https://doi.org/10.1016/j.est.2024.112855</li>
-  <li>Khan, M.A., Rehman, T., Kim, H.-M., 2025. Optimal operation of hydrogen-based multi-energy microgrid integrating water network and transportation sector. International Journal of Hydrogen Energy 97, 501–515. https://doi.org/10.1016/j.ijhydene.2024.11.367</li>
+   
   <li>Rehman, T., Khan, M.A., Kim, H.-M., 2025. Research on optimal design of multi-energy microgrid considering hybrid resilience load management and Carbon emissions. Sustainable Cities and Society 119, 106108. https://doi.org/10.1016/j.scs.2024.106108</li>
+   <li>Khan, M.A., Rehman, T., Kim, H.-M., 2025. Optimal operation of hydrogen-based multi-energy microgrid integrating water network and transportation sector. International Journal of Hydrogen Energy 97, 501–515. https://doi.org/10.1016/j.ijhydene.2024.11.367</li>
+    <li>Khan, M.A., Rehman, T., Hussain, A., Kim, H.-M., 2024. Day-ahead operation of a multi-energy microgrid community with shared hybrid energy storage and EV integration. Journal of Energy Storage 97, 112855. https://doi.org/10.1016/j.est.2024.112855</li>
+     <li>Rehman, T., Khan, M.A., Hussain, A., Kim, H.-M., 2024. Optimal sizing of multi-energy microgrid with electric vehicle integration: Considering carbon emission and resilience load. Energy Reports 11, 4192–4212. https://doi.org/10.1016/j.egyr.2024.04.001</li>
+  <li>Khan, Muhammad Ahsan, et al. "An Incentive-Based Mechanism to Enhance Energy Trading among Microgrids, EVs, and Grid." Energies 16.17 (2023): 6359.https://doi.org/10.3390/en16176359</li>
+  
+  
+ 
+  
   
 
 <section id="education-and-journey">
