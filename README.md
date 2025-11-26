@@ -31,7 +31,7 @@
 <section id="publications">
   <h2>My Publications</h2>
 
-   <li>Khan, M.A., Rehman, T., Kim, H.-M., 2025. Hierarchical energy management for heterogeneous multi-energy microgrid community: Integrating hydrogen into the water-energy nexus. Applied Energy 397, 126254. [https://doi.org/10.1016/j.scs.2024.106108](https://doi.org/10.1016/j.apenergy.2025.126254)</li>
+   <li>Khan, M.A., Rehman, T., Kim, H.-M., 2025. Hierarchical energy management for heterogeneous multi-energy microgrid community: Integrating hydrogen into the water-energy nexus. Applied Energy 397, 126254. https://doi.org/10.1016/j.apenergy.2025.126254</li>
   <li>Rehman, T., Khan, M.A., Kim, H.-M., 2025. Research on optimal design of multi-energy microgrid considering hybrid resilience load management and Carbon emissions. Sustainable Cities and Society 119, 106108. https://doi.org/10.1016/j.scs.2024.106108</li>
    <li>Khan, M.A., Rehman, T., Kim, H.-M., 2025. Optimal operation of hydrogen-based multi-energy microgrid integrating water network and transportation sector. International Journal of Hydrogen Energy 97, 501–515. https://doi.org/10.1016/j.ijhydene.2024.11.367</li>
     <li>Khan, M.A., Rehman, T., Hussain, A., Kim, H.-M., 2024. Day-ahead operation of a multi-energy microgrid community with shared hybrid energy storage and EV integration. Journal of Energy Storage 97, 112855. https://doi.org/10.1016/j.est.2024.112855</li>
